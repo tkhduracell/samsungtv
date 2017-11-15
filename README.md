@@ -7,6 +7,10 @@ Installation
 
 `npm install --save git+ssh://git@github.com/tkhduracell/samsungtv.git`
 
+Tested on
+---------
+ ✅ Samsung 6 Series (2016) [UE55KU6075]
+
 Usage
 -----
 ```js
